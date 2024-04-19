@@ -13,7 +13,7 @@ iv. Delete: Allow users to delete tasks.
   ### Prerequisites
    #### PHP 8.1 
    #### laravel 10.0 
-   #### mysql 10.0 
+   #### mysql 
 
  ### Installation 
    #### git clone https://github.com/Mustafa-Esmaail/task-management.git 
